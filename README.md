@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Back-end Developer Emil Huseynov<br>I have been interested in programming for many years.<br>Thanks for visiting my profile
+Hello, I am Back-end Developer Emil<br>I have been interested in programming for many years.<br>Thanks for visiting my profile
 
 
 ## 🌐 Socials:
