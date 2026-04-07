@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Backend+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-Backend-blue?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0EA5E9?style=for-the-badge" />
 </p>
 
 # 💫 About Me:
