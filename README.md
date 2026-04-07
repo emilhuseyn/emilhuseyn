@@ -28,3 +28,9 @@ Hello, Thanks for visiting my profile
 ![](https://github-readme-stats.vercel.app/api?username=emilhuseyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilhuseyn&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilhuseyn&layout=compact&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilhuseyn&layout=compact&theme=dark&hide_border=true)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilhuseyn&layout=compact&theme=dark&hide_border=true)
