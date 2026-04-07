@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello, Thanks for visiting my profile
-
+## 🏆 Achievements
+- 🥇 ICPC Azerbaijan Regional Contest Participant
+- 🎓 Code Academy High Honour Diploma
+- 💻 3+ years experience in .NET ecosystem
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-hüseynov-7b3139285/)  
