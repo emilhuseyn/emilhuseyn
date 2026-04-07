@@ -17,6 +17,12 @@ Hello, Thanks for visiting my profile
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilhuseyn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emilhuseyn&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=emilhuseyn&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
+[![](https://visitcount.itsvg.in/api?id=emilhuseyn&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emilhuseyn&theme=github-dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=emilhuseyn&color=blue&style=flat)
+
+![Snake animation](https://github.com/emilhuseyn/emilhuseyn/blob/output/github-contribution-grid-snake.svg)
