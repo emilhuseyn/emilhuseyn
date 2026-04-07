@@ -25,7 +25,8 @@ Hello, Thanks for visiting my profile
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://komarev.com/ghpvc/?username=emilhuseyn&color=blue&style=flat)
 
-
+## 🧠 Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=emilhuseyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 
