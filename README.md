@@ -26,3 +26,5 @@ Hello, Thanks for visiting my profile
 ![](https://komarev.com/ghpvc/?username=emilhuseyn&color=blue&style=flat)
 
 ![Snake animation](https://github.com/emilhuseyn/emilhuseyn/blob/output/github-contribution-grid-snake.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=emilhuseyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
