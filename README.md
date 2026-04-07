@@ -25,9 +25,8 @@ Hello, Thanks for visiting my profile
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://komarev.com/ghpvc/?username=emilhuseyn&color=blue&style=flat)
 
-## 🧠 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=emilhuseyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emilhuseyn&theme=darkhub&no-frame=true&margin-w=10)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilhuseyn&theme=github_dark)
