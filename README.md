@@ -5,6 +5,10 @@ Hello, Thanks for visiting my profile
 - 🎓 Code Academy High Honour Diploma
 - 💻 3+ years experience in .NET ecosystem
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;SaaS+Builder;System+Design+Enthusiast;Clean+Architecture+Lover" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-hüseynov-7b3139285/)  
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@emiilhuseynov23)  
